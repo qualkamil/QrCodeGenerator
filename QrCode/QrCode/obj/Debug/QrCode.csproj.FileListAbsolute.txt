@@ -1,0 +1,12 @@
+C:\Projeler\C#\QrCode\QrCode\QrCode\bin\Debug\QrCode.exe.config
+C:\Projeler\C#\QrCode\QrCode\QrCode\bin\Debug\QrCode.exe
+C:\Projeler\C#\QrCode\QrCode\QrCode\bin\Debug\QrCode.pdb
+C:\Projeler\C#\QrCode\QrCode\QrCode\bin\Debug\QRCoder.dll
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.csprojAssemblyReference.cache
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.Form1.resources
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.Properties.Resources.resources
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.csproj.GenerateResource.cache
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.csproj.CopyComplete
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.exe
+C:\Projeler\C#\QrCode\QrCode\QrCode\obj\Debug\QrCode.pdb
